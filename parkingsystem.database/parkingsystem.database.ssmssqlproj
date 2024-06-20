@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="parkingsystem.database">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="LAPTOP-9F6V9THT\SQLEXPRESS:SA">
+          <Created>2024-06-20T10:05:22.6894429-05:00</Created>
+          <Type>SQL</Type>
+          <Server>LAPTOP-9F6V9THT\SQLEXPRESS</Server>
+          <UserName>SA</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="maindb.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-9F6V9THT\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-9F6V9THT\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>maindb.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-9F6V9THT\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-9F6V9THT\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="registers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-9F6V9THT\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-9F6V9THT\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>registers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="structure.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-9F6V9THT\SQLEXPRESS:False:SA</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-9F6V9THT\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>SA</AssociatedConnUserName>
+          <FullPath>structure.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

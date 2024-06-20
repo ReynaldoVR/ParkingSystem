@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "parkingsystem.database", "parkingsystem.database\parkingsystem.database.ssmssqlproj", "{A052E348-572E-49B6-9E1A-C1511C7B1949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A052E348-572E-49B6-9E1A-C1511C7B1949}.Default|Default.ActiveCfg = Default
+		{AC938F41-8C77-41FF-B041-2CCABB892017}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AC26D8-09A1-47CE-9439-330A4888A0EB}
+	EndGlobalSection
+EndGlobal
